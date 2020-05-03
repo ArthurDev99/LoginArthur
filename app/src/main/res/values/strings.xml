@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">My Pocket</string>
+    /*Strings para layout LOGIN*/
+    <string name="btn_Google">Continue With Google</string>
+    <string name="btn_Firefox">Log in with Firefox</string>
+    <string name="btn_LogIn">Log In</string>
+    <string name="lbl_OR">OR</string>
+    <string name="lbl_Email">E-mail Address</string>
+    <string name="lbl_Password">Password</string>
+    <string name="txt_Email">Enter Email</string>
+    <string name="txt_Enter_Password">Enter Password</string>
+    <string name="lbl_ForgotPassword"><u>Forgot password?</u></string>
+    <string name="no_account">Do you not have an account?</string>
+    <string name="lbl_SignUp"><u>Register Now!</u></string>
+    /*-------------------------*/
+    /*Strings para layout Sign Up*/
+    <string name="lbl_FisrtName">First Name</string>
+    <string name="lbl_LastName">Last Name</string>
+    <string name="txt_FirstName">Jhon</string>
+    <string name="txt_LastName">Doe</string>
+    <string name="txt_email">ben@getpocket.com</string>
+    <string name="txt_Create_Password">Create Password</string>
+    <string name="lbl_Agree">By signing up, you agree to Pocket´s <b>Terms Of Service</b> and <b>Privacy Policy</b></string>
+    <string name="btn_SignUp">Sign Up</string>
+    <string name="title_activity_contenido">Article</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    /*-------------------------*/
+    /*String para layout CONTENIDO*/
+
+    <string name="action_settings">Settings</string>
+    <string name="action_escuchar">Listening</string>
+    <string name="action_upload">Upload</string>
+    <string name="action_read">Read</string>
+
+    <string name="lbl_Title"><b>Tesla impresses TSLA bull-turned-skeptic after Model 3 Perfomanence test drive
+</b></string>
+
+    <string name="lbl_subtitle">By <b>Simon Alvarez</b>, teslariti.com \n
+October 15, 2018 9:35 AM</string>
+    <string name="lbl_Contenido">
+    One of Tesla’s most ardent bulls who adopted a more skeptical stance on the company earlier this year has seemingly been won over after a test drive in the Model 3
+        Performance. In a recent note, Morgan Stanley analyst Adam Jonas wrote that the <u>Model 3 Performance</u> is impressive, being a vehicle that signifies a positive momentum for electric cars as a whole.
+
+In his note, Jonas stated that workers at the Fremont factory continue to be incredibly busy manufacturing the electric car to meet the demand for the vehicle in the United States. The Morgan Stanley analyst
+        also pointed out that the Model 3 Performance seems to be the best bang-for-the-buck electric car in Tesla’s lineup, giving even more value-for-performance than the Model S 75D.
+
+“Frankly, our enjoyment of the high-spec version of the Model 3 took us by surprise. It’s hard to say how much this matters. But it matters,” Jonas stated.\n \n
+
+Overall, Jonas outlined several factors driving expectations for electric cars today, including positive regulatory initiatives in large markets such as China and Europe,
+        the rising price of oil, as well as the increasing number of companies looking into electrified vehicles. These factors, particularly the regulatory initiatives
+        from several regions across the globe, are starting to be felt by legacy carmakers, including Volkswagen AG, which recently expressed its reservations about the EU’s
+        proposal to reduce emissions by 35% on or before 2030.\n\n
+
+Morgan Stanley has historically adopted a bullish stance on Tesla stock (NASDAQ:TSLA), though last May, Jonas cut the company’s price target from $376 to $291 – a 23% decrease. Jonas also slashed his long-term operating profit margin forecast for the electric car maker from 14.3% to 9.8%. Explaining his more conservative stance in a note, Jonas wrote that the “lingering manufacturing issues with the Model 3 – most recently at Fremont final assembly” could prevent Tesla from achieving its ambitious self-imposed targets.
+
+        </string>
+    /*-------------------------*/
+</resources>
